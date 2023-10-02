@@ -1,0 +1,25 @@
+{
+  "api": {
+    "name": "InstallRefererPlugin",
+    "slug": "installrefererplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "getReferrer",
+        "signature": "() => Promise<any>",
+        "parameters": [],
+        "returns": "Promise<any>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "getreferrer"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
